@@ -1,3 +1,3 @@
 # 项目介绍
 
-封装简易 axios 库，学习 axios
+使用react-cra 演示 封装axios ，引入了ts做类型检查
